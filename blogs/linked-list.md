@@ -1,3 +1,9 @@
+---
+title: "Understanding Linked List "
+description: "Understanding the Linked list data structure in detail."
+pubDate: 2026-06-16
+---
+
 A linked list is a linear data structure that includes a series of connected nodes.
 → Each node stores the **data** and the **address** of the next node. 
 
