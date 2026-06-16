@@ -1,0 +1,20 @@
+name: Remote Content Sync Trigger
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'blogs/**' # Only triggers if files inside the blogs folder are updated
+
+jobs:
+  trigger-astro-rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify Hosting Provider Webhook
+        run: |
+          if [ -z "${{ secrets.DEPLOY_HOOK_URL }}" ]; then
+            echo "Error: DEPLOY_HOOK_URL secret is missing."
+            exit 1
+          fi
+          curl -X POST "${{ secrets.DEPLOY_HOOK_URL }}"
