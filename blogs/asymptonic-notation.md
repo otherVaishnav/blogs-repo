@@ -1,7 +1,7 @@
 ---
 title : "Asymptonic Notation"
 description : "time complexities of Algorithms"
-date : 2026-06-16
+pubDate : 2026-06-16
 ---
 
 → The efficiency of a program is measured with the help of asymptotic notations.
