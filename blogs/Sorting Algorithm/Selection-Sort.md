@@ -1,3 +1,8 @@
+--- 
+title: "Selection Sort"
+description: "Selection Sort Algorithm and Implementation"
+pubDate: 2026-06-17
+---
 # Selection Sort
 
 It is a simple, comparison-based sorting algorithm.

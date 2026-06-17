@@ -1,3 +1,8 @@
+--- 
+title: "Tree Types"
+description: "Tree data structure overview"
+pubDate: 2026-06-17
+---
 # Tree
 
 → A non-linear data structure.

@@ -1,3 +1,8 @@
+--- 
+title: "Binary Search"
+description: "Binary Search Algorithm and Implementation"
+pubDate: 2026-06-17
+---
 # Binary Search
 
 → only works on sorted data. 

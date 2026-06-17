@@ -1,3 +1,8 @@
+--- 
+title: "Merge Sort"
+description: "Merge Sort algorithm overview and implementation"
+pubDate: 2026-06-17
+---
 # Merge Sort
 
 → It is an efficient, comparison-based sorting algorithm.

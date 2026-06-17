@@ -1,3 +1,8 @@
+--- 
+title: "Stack ( LIFO )"
+description: "Stack data structure overview and implementation"
+pubDate: 2026-06-17
+---
 # Stack ( LIFO )
 
 a linear data structure that follows the principle of **Last In First Out (LIFO)**. 

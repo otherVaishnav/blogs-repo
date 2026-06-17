@@ -1,3 +1,8 @@
+--- 
+title: "Fibonacci Search"
+description: "Fibonacci Search Algorithm and Implementation"
+pubDate: 2026-06-17
+---
 # Fibonacci Search
 
 advanced comparison-based search algorithm for sorted arrays.

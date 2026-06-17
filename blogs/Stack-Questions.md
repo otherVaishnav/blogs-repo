@@ -1,3 +1,8 @@
+--- 
+title: "Stack Questions"
+description: "Stack practice questions and LeetCode problems."
+pubDate: 2026-06-17
+---
 # Stack Questions
 
 ## **Frequently Asked**

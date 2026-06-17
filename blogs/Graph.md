@@ -1,3 +1,8 @@
+--- 
+title: "Graph"
+description: "topics only"
+pubDate: 2026-06-17
+---
 # Graph
 
 ```

@@ -1,3 +1,8 @@
+--- 
+title: "Greedy Algorithm "
+description: "Greedy Algorithm questions from LeetCode"
+pubDate: 2026-06-17
+---
 # Greedy Algorithm
 
 ### Easy

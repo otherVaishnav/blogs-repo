@@ -1,3 +1,9 @@
+--- 
+title: "Array Questions"
+description: "Array Questions and Solutions"
+pubDate: 2026-06-17
+---
+
 # Array
 
 1. Reverse without using another array.

@@ -1,3 +1,8 @@
+--- 
+title: "Searching Algorithms"
+description: "Overview of various searching algorithms and their implementations."
+pubDate: 2026-06-17
+---
 # Searching Algorighms :
 
 [Linear Search](Searching%20Algorighms/Linear%20Search%2037b6099b8088808fb384c68a980383ca.md)

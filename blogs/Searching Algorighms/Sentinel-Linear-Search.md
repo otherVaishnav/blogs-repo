@@ -1,3 +1,8 @@
+--- 
+title: "Sentinel Linear Search"
+description: "Sentinel Linear Search overview"
+pubDate: 2026-06-17
+---
 # Sentinel Linear Search
 
 There are no Sentinel questions specifically, you can change the linear search implementations. 

@@ -1,3 +1,8 @@
+--- 
+title: "Quick Sort"
+description: "Quick Sort Algorithm and Implementation"
+pubDate: 2026-06-17
+---
 # Quick Sort
 
 → It is a highly efficient, comparison-based sorting algorithm.

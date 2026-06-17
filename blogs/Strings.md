@@ -1,3 +1,8 @@
+--- 
+title: "Strings Questions"
+description: "String practice questions and LeetCode problems."
+pubDate: 2026-06-17
+---
 # Strings
 
 1. Write a Java Program to convert a given string into lowercase.

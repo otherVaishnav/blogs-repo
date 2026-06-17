@@ -1,3 +1,8 @@
+--- 
+title: "Bubble Sort"
+description: "Bubble Sort algorithm overview and implementation"
+pubDate: 2026-06-17
+---
 # Bubble Sort
 
 → comparison-based sorting algorithm. 

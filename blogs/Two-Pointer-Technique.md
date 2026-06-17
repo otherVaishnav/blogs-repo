@@ -1,3 +1,8 @@
+--- 
+title: "Two Pointer Technique"
+description: "Two Pointer Technique and Implementation"
+pubDate: 2026-06-17
+---
 # Two Pointer Technique
 
 ### Easy

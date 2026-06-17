@@ -1,3 +1,8 @@
+--- 
+title: "Queue (FIFO)"
+description: "Queue data structure overview and implementation"
+pubDate: 2026-06-17
+---
 # Queue ( FIFO )
 
 A linear data structure 

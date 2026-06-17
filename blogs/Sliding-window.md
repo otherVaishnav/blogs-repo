@@ -1,3 +1,8 @@
+--- 
+title: "Sliding window"
+description: "Sliding window questions"
+pubDate: 2026-06-17
+---
 # Sliding window
 
 ### Easy

@@ -1,3 +1,8 @@
+--- 
+title: "Queue Questions"
+description: "Questions on Queue data structure"
+pubDate: 2026-06-17
+---
 # Queue Questions
 
 ## **Frequently Asked**

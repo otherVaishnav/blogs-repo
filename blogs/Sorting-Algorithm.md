@@ -1,3 +1,8 @@
+--- 
+title: "Sorting Algorithm"
+description: "Overview of various sorting algorithms"
+pubDate: 2026-06-17
+---
 # Sorting Algorithm
 
 # Comparison-Based Sorting Algorithms

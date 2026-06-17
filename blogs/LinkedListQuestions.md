@@ -1,3 +1,8 @@
+--- 
+title: "Linked List Questions"
+description: "Questions on Linked List data structure"
+pubDate: 2026-06-17
+---
 # Linked List Questions
 
 **Singly Linked List**

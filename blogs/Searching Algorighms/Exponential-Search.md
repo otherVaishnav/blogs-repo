@@ -1,3 +1,8 @@
+--- 
+title: "Exponential Search"
+description: "Exponential Search Algorithm and Implementation"
+pubDate: 2026-06-17
+---
 # Exponential Search
 
 Search through unbounded or infinite arrays.

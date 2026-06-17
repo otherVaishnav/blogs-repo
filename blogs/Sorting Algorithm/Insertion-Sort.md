@@ -1,3 +1,8 @@
+--- 
+title: "Insertion Sort"
+description: "Insertion Sort algorithm overview"
+pubDate: 2026-06-17
+---
 # Insertion Sort
 
 It is a simple, comparison-based sorting algorithm.

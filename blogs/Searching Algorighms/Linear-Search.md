@@ -1,3 +1,9 @@
+--- 
+title: "Linear Search"      
+description: "Linear search algorighm notes and questions"
+pubDate: 2026-06-17
+---
+
 # Linear Search
 
 → Linear search performance scales linearly with the number of items (n) in the list.

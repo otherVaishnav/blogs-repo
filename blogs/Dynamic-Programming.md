@@ -1,10 +1,10 @@
+--- 
+title: "Dynamic Programming"
+description: "Dynamic Programming Questions"
+pubDate: 2026-06-17
+---
 # Dynamic Programming
 
-```
-- Dynamic Programming
-- Floyd-Warshall Algorithm
-- Longest Common Sequence
-```
 
 ### Easy
 

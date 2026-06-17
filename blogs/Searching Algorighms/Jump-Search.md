@@ -1,3 +1,8 @@
+--- 
+title: "Jump Search (or Block Search)"
+description: "Jump Search Algorithm and Implementation"
+pubDate: 2026-06-17
+---
 # Jump Search (or Block Search)
 
 → for searching sorted arrays. 

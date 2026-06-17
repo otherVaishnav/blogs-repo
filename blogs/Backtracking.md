@@ -1,3 +1,8 @@
+--- 
+title: "Backtracking"
+description: "Backtracking algorithm questions from LeetCode"
+pubDate: 2026-06-17
+---
 # Backtracking
 
 ### Easy
