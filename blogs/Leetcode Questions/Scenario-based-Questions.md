@@ -4,9 +4,7 @@ description: "A curated list of LeetCode problems organized by real-world scenar
 pubDate: 2026-06-17
 ---
 
-Here is a master spreadsheet-style list of **50 frequently asked LeetCode questions** mapped to real-world interview scenarios.
-
-To help you get the exact breakdown you need, I have structured it into **20 Easy, 20 Medium, and 10 Hard** problems (which adds up to your target of 50 total questions while maintaining a balanced difficulty progression).
+A master spreadsheet-style list of **50 frequently asked Scenario based LeetCode questions** 
 
 ### Easy Level
 
