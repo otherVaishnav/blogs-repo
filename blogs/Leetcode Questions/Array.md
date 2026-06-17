@@ -3,8 +3,9 @@ title: "Array Questions"
 description: "Array Questions and Solutions"
 pubDate: 2026-06-17
 ---
+Array is a data structure that holds a fixed number of values of the same type. It is one of the most fundamental data structures in computer science and is widely used in various applications. 
 
-# Array
+Here are some common operations and questions related to arrays:
 
 1. Reverse without using another array.
 2. Check if array is palindrome
