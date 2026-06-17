@@ -1,5 +1,5 @@
 ---
-title: "Understanding Linked List "
+title: "Linked List "
 description: "Understanding the Linked list data structure in detail."
 pubDate: 2026-06-16
 ---
@@ -45,10 +45,6 @@ class Node {
 }
 ```
 
-!image.png
-
-!image.png
-
 Each node points only to the *next* node. Traversal is uni-directional.
 
 ### How to operate on a linked list .
@@ -84,10 +80,6 @@ class Node {
 }
 ```
 
-!image.png
-
-!image.png
-
 Each node links both forward and backward → traversal in both directions
 
 Advantages : 
@@ -116,8 +108,6 @@ class Node {
 // just the last node points towards the first node not a null. 
 // ie. lastNode.next = head;
 ```
-
-!image.png
 
 ### Types
 

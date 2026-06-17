@@ -1,5 +1,5 @@
 --- 
-title: "Tree Types"
+title: "Tree"
 description: "Tree data structure overview"
 pubDate: 2026-06-17
 ---
@@ -10,20 +10,17 @@ pubDate: 2026-06-17
 Types : 
 
 1. Binary tree 
-    
-    ```
-    - Full Binary Tree
-    - Perfect Binary Tree
-    - Complete Binary Tree
-    - Balanced Binary Tree
-    ```
+    1. Full Binary Tree
+    2. Perfect Binary Tree
+    3. Complete Binary Tree
+    4. Balanced Binary Tree
     
 2. Binary search tree
 3. Self Balancing : 
     1. AVL ( Adelson-Velsky and Landis ) tree. 
     2. Red Black tree.
 4. Multi way : 
-    1. B - tree
+    1. B tree
     2. B+ Tree
 5. Specialized : 
     1. Heap 
