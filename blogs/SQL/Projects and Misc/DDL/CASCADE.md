@@ -1,4 +1,10 @@
-# CASCADE
+---
+title: "CASCADE"
+description: "Explore the CASCADE clause."
+pubDate: "2025-06-01"
+---
+
+<!-- # CASCADE -->  
 
 CASCADE is an optional clause used with certain DDL statements to automatically propagate an action from a parent object to dependent child objects. 
 

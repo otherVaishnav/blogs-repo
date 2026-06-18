@@ -1,4 +1,10 @@
-# Library Management System
+---
+title: "Library Management System"
+description: "Library Management System schema."
+pubDate: "2025-06-01"
+---
+
+<!-- # Library Management System -->
 
 1. Create a branch table with fields: 
     - branch id

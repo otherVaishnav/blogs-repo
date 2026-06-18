@@ -1,4 +1,10 @@
-# EMP - DEPT
+---
+title: "EMP - DEPT Questions"
+description: "Explore the EMP - DEPT schema."
+pubDate: "2025-06-01"
+---
+
+<!-- # EMP - DEPT -->
 
 1. Create a table named DEPARTMENTS with the following columns:
     - DEPT_ID (Number, primary key)

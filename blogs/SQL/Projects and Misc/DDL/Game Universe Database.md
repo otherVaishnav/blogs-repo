@@ -1,4 +1,10 @@
-# Game Universe Database
+---
+title: "Game Universe Database"
+description: "Explore the Game Universe Database schema."
+pubDate: "2025-06-01"
+---
+
+<!-- # Game Universe Database -->
 
 1. Create a PLAYER table: 
     - PLAYER_ID

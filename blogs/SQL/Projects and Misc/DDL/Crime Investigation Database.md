@@ -1,4 +1,10 @@
-# Crime Investigation Database
+---
+title: "Crime Investigation Database"
+description: "Explore the Crime Investigation Database schema."
+pubDate: "2025-06-01"
+---
+
+<!-- # Crime Investigation Database -->
 
 1. Create a CRIME_SCENE table with:
     - SCENE_ID

@@ -1,4 +1,10 @@
-# Scott - schema ( PostgreSQL )
+---
+title: "Scott - schema ( PostgreSQL )"
+description: "Scott schema for PostgreSQL."
+pubDate: "2025-06-02"
+---
+
+<!-- # Scott - schema ( PostgreSQL ) -->
 
 ```sql
 -- postgreSQL

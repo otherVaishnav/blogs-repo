@@ -1,4 +1,10 @@
-# TO ADD
+---
+title: "Extra topics to add"
+description: "don't expose these topics in the blog, but keep them for reference."
+pubDate: "2025-06-01"
+---
+
+<!-- # TO ADD -->
 
 [***Database Recovery**](/07projectsandmisc/to-add/database-recovery)
 
