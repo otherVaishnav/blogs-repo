@@ -1,0 +1,36 @@
+1. Create a branch table with fields: 
+    - branch id
+    - name
+    - address
+    - established date
+    - manager name
+2. Make branch id the primary key.
+3. Create a book table that includes: 
+    - BOOK_ID
+    - TITLE
+    - AUTHOR
+    - GENRE
+    - EDITION
+    - PRICE
+    - BRANCH_ID
+4. Add a foreign key linking each book to its branch.
+5. Create a MEMBER table with
+    - MEMBER_ID
+    - NAME
+    - JOIN_DATE
+    - MEMBERSHIP_TYPE
+    - EMAIL
+6. Enforce MEMBERSHIP_TYPE only allows values ‘REGULAR’ , ‘PREMIUM’, ‘STUDENT’ 
+7. Create a BORROW_RECORD table with columns 
+    - RECORD_ID
+    - MEMBER_ID
+    - BOOK_ID
+    - BOWWOR_DATE
+    - DUE_DATE
+    - RETURN_DATE
+8. Use foreign keys referencing MEMBER and BOOK.
+9. ENSURE DUE_DATE > BORROW_DATE. 
+10. Alter the BOOK table to include a LAST_DATE column with a default of NULL.
+11. Rename MEMBERSHIP_TYPE column to MEMBER_TIER.
+12. Drop the PRICE column from the BOOK table.
+13. Create a new table ARCHIVED_BOOKS with the same structure as BOOK but without foreign keys, used for old books.
