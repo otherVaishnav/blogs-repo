@@ -1,8 +1,14 @@
 ---
-order: 20
+title: "CASE Statement"
+description: "Talking about the CASE Statement in SQL."
+pubDate: "2025-06-01"
 ---
 
-# CASE Statement
+---
+<!-- # CASE Statement -->
+
+
+## Types of CASE Statement:
 
 1. Simple case 
 

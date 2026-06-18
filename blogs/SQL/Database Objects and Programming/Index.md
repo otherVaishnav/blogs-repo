@@ -1,8 +1,9 @@
 ---
-order: 6
+title: "Index"
+description: "Explore the Index section."
+pubDate: "2025-06-01"
 ---
-
-# Index
+<!-- # Index -->
 
 Index is a database object that improves query performance by providing quick access to rows in a table.
 

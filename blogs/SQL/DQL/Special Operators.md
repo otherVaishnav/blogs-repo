@@ -1,10 +1,11 @@
 ---
-order: 5
+title: "Special Operators"
+description: "Explore the Special Operators section."
+pubDate: "2025-06-01"
 ---
 
-# Special Operators
+<!-- # Special Operators -->
 
----
 
 **Special Operators** provide shortcut syntax for common filtering conditions in the `WHERE` clause, making queries easier to write and read.
 

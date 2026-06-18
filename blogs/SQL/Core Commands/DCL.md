@@ -1,4 +1,10 @@
-# DCL
+---
+title: "DCL"
+description: "Explore the DCL section."
+pubDate: "2025-06-01"
+---
+
+<!-- # DCL -->
 
 → It is used to control the dataflow between the users.
 

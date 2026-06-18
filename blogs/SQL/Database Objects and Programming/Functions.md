@@ -1,5 +1,7 @@
 ---
-order: 7
+title: "Stored Functions"
+description: "Explore the Stored Functions section."
+pubDate: "2025-06-01"
 ---
 
 # Stored Functions

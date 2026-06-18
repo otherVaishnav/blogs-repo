@@ -1,1 +1,1 @@
-Plaining to add SQL blogs here. Will add more content soon.
+This is the list of all the sql topics, basic topics are not discussed in details, sorry for that, but there are questions for you to practice and learn. I will try to cover all the topics in detail in future. If you have any questions, please feel free to ask me.

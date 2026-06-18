@@ -1,4 +1,10 @@
-# Value
+---
+title: "Window Functions: Value"
+description: "Explore the Window Functions: Value section."
+pubDate: "2025-06-01"
+---
+
+<!-- # Value -->
 
 ```sql
 ### Frame START and END

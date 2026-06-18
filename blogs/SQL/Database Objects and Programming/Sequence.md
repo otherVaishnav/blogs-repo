@@ -1,8 +1,10 @@
 ---
-order: 2
+title: "Sequence"
+description: "Explore the Sequence section."
+pubDate: "2025-06-01"
 ---
 
-# Sequence
+<!-- # Sequence -->
 
 ---
 

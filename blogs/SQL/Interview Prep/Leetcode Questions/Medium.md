@@ -1,8 +1,10 @@
 ---
-order: 2
+title: "Medium Questions on LeetCode"
+description: "Explore the Medium Questions on LeetCode section."
+pubDate: "2025-06-01"
 ---
 
-# Top LeetCode SQL (Medium)
+<!-- # Top LeetCode SQL (Medium) -->
 
 Medium SQL questions typically test your capability to handle rolling calculations, handle complex aggregations over time/partition boundaries, or use subqueries heavily. Be prepared to deploy Window Functions on almost every question.
 

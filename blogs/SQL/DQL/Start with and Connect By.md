@@ -1,8 +1,10 @@
 ---
-order: 17
+title: "Start with and Connect By"
+description: "Explore the Start with and Connect By section."
+pubDate: "2025-06-01"
 ---
 
-# Start with and Connect By
+<!-- # Start with and Connect By -->
 
 → Both are hierarchical query clauses. 
 

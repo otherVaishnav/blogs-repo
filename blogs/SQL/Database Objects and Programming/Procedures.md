@@ -1,5 +1,7 @@
 ---
-order: 8
+title: "Procedures"
+description: "the Procedures section. notes and assignment questions."
+pubDate: "2025-06-01"
 ---
 
 # Stored Procedures

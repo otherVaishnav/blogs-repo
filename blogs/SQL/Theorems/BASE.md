@@ -1,4 +1,11 @@
-# BASE
+---
+title: "BASE Theorem"
+description: "Explore the BASE theorem ."
+pubDate: "2025-06-01"
+---
+
+
+<!-- # BASE -->
 
 **→ Basically Available Soft State Eventually Consistent**
 

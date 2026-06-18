@@ -1,8 +1,10 @@
 ---
-order: 3
+title: "Hard Questions on LeetCode"
+description: "Explore the Hard Questions on LeetCode section."
+pubDate: "2025-06-01"
 ---
 
-# Top LeetCode SQL (Hard)
+<!-- # Top LeetCode SQL (Hard) -->
 
 Hard questions on LeetCode mirror Senior Data Engineering loop questions. They expect robust, gapless queries that deal with nasty edge cases, complex time-series data gaps, graph traversals, and multi-layered CTE architectures.
 

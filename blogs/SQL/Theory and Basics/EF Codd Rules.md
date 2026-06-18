@@ -1,4 +1,10 @@
-# E.F. Codd's Rules
+---
+title: "E.F. Codd's Rules"
+description: "Explore the E.F. Codd's Rules section."
+pubDate: "2025-06-01"
+---
+
+<!-- # E.F. Codd's Rules -->
 
 ---
 

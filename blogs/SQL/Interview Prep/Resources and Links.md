@@ -1,5 +1,7 @@
 ---
-order: 2
+title: "Resources and Links"
+description: "Resources and Links section to explore curated platforms and resources for SQL interview preparation."
+pubDate: "2025-06-01"
 ---
 
 # Best Resources and Platforms

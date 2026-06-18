@@ -1,8 +1,10 @@
 ---
-order: 7
+title: "Single Row Functions ( Scalar )"
+description: "Explore the Single Row Functions section."
+pubDate: "2025-06-01"
 ---
 
-# Single Row function ( Scalar )
+<!-- # Single Row function ( Scalar ) -->
 
 ---
 

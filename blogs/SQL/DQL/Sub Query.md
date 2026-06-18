@@ -1,8 +1,10 @@
 ---
-order: 12
+title: "Subqueries"
+description: "Explore the Subqueries section."
+pubDate: "2025-06-01"
 ---
 
-# Subqueries
+<!-- # Subqueries -->
 
 ---
 

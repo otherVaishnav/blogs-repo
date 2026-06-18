@@ -1,8 +1,10 @@
 ---
-order: 19
+title: "Window Function"
+description: "Explore the Window Function section."
+pubDate: "2025-06-01"
 ---
 
-# Window Function
+<!-- # Window Function -->
 
 → Window functions allow us to perform calculations on a set of related rows i.e window without grouping them into one row.   
 

@@ -1,8 +1,11 @@
 ---
-order: 21
+title: "PIVOT"
+description: "Explore the PIVOT section."
+pubDate: "2025-06-01"
 ---
 
-# PIVOT
+
+<!-- # PIVOT -->
 
 Pivot : Converting rows into columns. 
 

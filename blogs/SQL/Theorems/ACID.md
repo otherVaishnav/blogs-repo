@@ -1,4 +1,10 @@
-# ACID
+---
+title: "ACID Properties"
+description: "Explore the ACID properties of database transactions."
+pubDate: "2025-06-01"
+---
+
+<!-- # ACID -->
 
 ### Transactions :
 

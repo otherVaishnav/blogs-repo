@@ -1,8 +1,10 @@
 ---
-order: 1
+title: "Projection"
+description: "Explore the Projection section."
+pubDate: "2025-06-01"
 ---
 
-# Projection
+<!-- # Projection -->
 
 ```sql
 -- CONNECT TO USER SCOTT

@@ -1,8 +1,10 @@
 ---
-order: 3
+title: "Synonyms"
+description: "Explore the Synonyms section."
+pubDate: "2025-06-01"
 ---
 
-# Synonyms
+<!-- # Synonyms -->
 
 → SQL Synonyms are database objects that act as aliases for other objects.
 

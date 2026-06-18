@@ -1,4 +1,9 @@
-# Null Handling Functions (Scalar)
+---
+title: "Null Handling Functions (Scalar)"
+description: "Explore the Null Handling Functions (Scalar) section."
+pubDate: "2025-06-02"
+---
+<!-- # Null Handling Functions (Scalar) -->
 
 ---
 

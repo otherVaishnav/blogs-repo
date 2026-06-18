@@ -1,8 +1,10 @@
 ---
-order: 1
+title: "View"
+description: "Explore the View section."
+pubDate: "2025-06-01"
 ---
 
-# View
+<!-- # View -->
 
 A view is a **VIRTUAL TABLE** based on the result-table of a SQL query.
 

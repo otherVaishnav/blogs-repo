@@ -1,8 +1,10 @@
 ---
-order: 16
+title: "CUBE AND ROLLUP"
+description: "Explore the CUBE AND ROLLUP section."
+pubDate: "2025-06-01"
 ---
 
-# CUBE AND ROLLUP
+<!-- # CUBE AND ROLLUP -->
 
 → Used along with the group by clause, 
 

@@ -1,4 +1,10 @@
-# Relational Model
+---
+title: "Relational Model"
+description: "Explore the relational model section."
+pubDate: "2025-06-01"
+---
+
+<!-- # Relational Model -->
 
 ---
 

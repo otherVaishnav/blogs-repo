@@ -1,4 +1,9 @@
-# DML
+
+---
+title: "DML"
+description: "Explore the DML section."
+pubDate: "2025-06-01"
+---
 
 Data manipulation language
 

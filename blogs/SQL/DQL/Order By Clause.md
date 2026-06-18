@@ -1,8 +1,10 @@
 ---
-order: 11
+title: "Order By Clause"
+description: "Explore the Order By Clause  section."
+pubDate: "2025-06-01"
 ---
 
-# Order By Clause
+<!-- # Order By Clause -->
 
 → It order’s the records of result table. 
 

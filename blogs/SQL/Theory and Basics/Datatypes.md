@@ -1,6 +1,9 @@
-# Datatypes in SQL
-
 ---
+title: "Datatypes in SQL"
+description: "Explore the datatypes section."
+pubDate: "2025-06-01"
+---     
+<!-- # Datatypes in SQL -->
 
 Data types specify the type of data that a column can hold. Choosing the correct datatype is crucial for ensuring data integrity, optimizing storage space, and improving performance.
 

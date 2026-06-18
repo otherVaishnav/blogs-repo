@@ -1,8 +1,10 @@
 ---
-order: 13
+title: "Joins"
+description: "Explore the Joins section."
+pubDate: "2025-06-01"
 ---
 
-# Joins
+<!-- # Joins -->
 
 ### 1. Cross / Cartesian JOIN.
 

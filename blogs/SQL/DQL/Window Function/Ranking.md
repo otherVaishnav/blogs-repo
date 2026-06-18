@@ -1,4 +1,10 @@
-# Window Functions: Ranking
+---
+title: "Window Functions: Ranking"
+description: "Explore the Window Functions: Ranking section."
+pubDate: "2025-06-01"
+---
+
+<!-- # Window Functions: Ranking -->
 
 ---
 

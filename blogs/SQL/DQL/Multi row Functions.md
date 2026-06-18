@@ -1,8 +1,10 @@
 ---
-order: 8
+title: "Multi-Row (Aggregate) Functions"
+description: "Explore the Multi-Row (Aggregate) Functions section."
+pubDate: "2025-06-01"
 ---
 
-# Multi-Row (Aggregate) Functions
+<!-- # Multi-Row (Aggregate) Functions -->
 
 ---
 

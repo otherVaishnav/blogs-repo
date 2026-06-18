@@ -1,8 +1,10 @@
 ---
-order: 9
+title: "TRIGGERS"
+description: "Explore the TRIGGERS section."
+pubDate: "2025-06-01"
 ---
 
-# TRIGGERS
+<!-- # TRIGGERS -->
 
 → a stored program that automatically executes when a specified DML event occurs on a table.
 

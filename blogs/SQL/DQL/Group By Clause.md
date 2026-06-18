@@ -1,8 +1,10 @@
 ---
-order: 9
+title: "Group By Clause"
+description: "Explore the Group By Clause section."
+pubDate: "2025-06-01"
 ---
 
-# Group By Clause
+<!-- # Group By Clause -->
 
 ---
 

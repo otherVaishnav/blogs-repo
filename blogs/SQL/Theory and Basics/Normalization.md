@@ -1,4 +1,10 @@
-# Normalization
+---
+title: "Normalization"
+description: "Explore the normalization section."
+pubDate: "2025-06-02"
+---
+
+<!-- # Normalization -->
 
 1. Attributes 
 2. Functional Dependencies 

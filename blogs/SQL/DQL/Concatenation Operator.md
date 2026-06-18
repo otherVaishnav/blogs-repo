@@ -1,8 +1,10 @@
 ---
-order: 3
+title: "Concatenation Operator"
+description: "Explore the Concatenation Operator section."
+pubDate: "2025-06-01"
 ---
 
-# Concatenation Operator
+<!-- # Concatenation Operator -->
 
 ---
 

@@ -1,8 +1,10 @@
 ---
-order: 2
+title: "Selection"
+description: "Question on the Selection."
+pubDate: "2025-06-01"
 ---
 
-# Selection
+<!-- # Selection -->
 
 ```sql
 SPOOL "paste-path-to-folder/filename"

@@ -1,4 +1,10 @@
-# Data modeling
+---
+title: "Data Modeling"
+description: "Explore the data modeling section."
+pubDate: "2025-06-01"
+---
+
+<!-- # Data modeling -->
 
 ⇒ Data modeling is a detailed process that involves creating a visual representation of data and its relationships. 
 

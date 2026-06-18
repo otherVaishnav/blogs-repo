@@ -1,8 +1,10 @@
 ---
-order: 1
+title: "Important SQL Interview Topics"
+description: "important SQL interview topics."
+pubDate: "2025-06-02"
 ---
 
-# High-Yield SQL Interview Topics
+<!-- # High-Yield SQL Interview Topics -->
 
 When preparing for a SQL technical interview—whether for a Data Analyst, Data Engineer, or Backend Developer role—interviewers don't query everything. They heavily favor concepts that demonstrate your ability to manipulate data conditionally, combine datasets efficiently, and perform rolling calculations.
 

@@ -1,4 +1,10 @@
-# TCL
+---
+title: "TCL"
+description: "Explore the TCL section."
+pubDate: "2025-06-01"
+---
+
+<!-- # TCL -->
 
 TCL statements are used to manage the changes made by DML statements 
 

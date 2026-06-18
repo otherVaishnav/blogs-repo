@@ -1,8 +1,10 @@
 ---
-order: 5
+title: "Temporary Tables"
+description: "Explore the Temporary Tables section."
+pubDate: "2025-06-01"
 ---
 
-# Temporary Tables
+<!-- # Temporary Tables -->
 
 ---
 

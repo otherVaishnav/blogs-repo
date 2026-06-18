@@ -1,8 +1,10 @@
 ---
-order: 10
+title: "Having Clause"
+description: "Explore the Having Clause section."
+pubDate: "2025-06-01"
 ---
 
-# Having Clause
+<!-- # Having Clause -->
 
 It is used to filter the groups.
 

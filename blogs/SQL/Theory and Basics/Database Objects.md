@@ -1,4 +1,9 @@
-# Database Objects
+---
+title: "Database Objects"
+description: "Explore the database objects section."
+pubDate: "2025-06-01"
+---
+<!-- # Database Objects -->
 
 → logical structure stored in the database schema. 
 

@@ -1,8 +1,11 @@
 ---
-order: 15
+title: "CTE"
+description: "Explore the CTE section."
+pubDate: "2025-06-01"
 ---
 
-# CTE
+
+<!-- # CTE -->
 
 → It’s a temporary table which can be used in SQL statement
 

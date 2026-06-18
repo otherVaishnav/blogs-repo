@@ -1,4 +1,10 @@
-# Date Functions (Scalar)
+---
+title: "Date Functions (Scalar)"
+description: "Explore the Date Functions (Scalar)s section."
+pubDate: "2025-06-01"
+---
+
+<!-- # Date Functions (Scalar) -->
 
 ---
 

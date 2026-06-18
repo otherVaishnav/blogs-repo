@@ -1,8 +1,10 @@
 ---
-order: 1
+title: "Top LeetCode SQL (Easy)"
+description: "Explore the Top LeetCode SQL (Easy) section."
+pubDate: "2025-06-01"
 ---
 
-# Top LeetCode SQL (Easy)
+<!-- # Top LeetCode SQL (Easy) -->
 
 These questions test the absolute core of DQL (Data Query Language)—how well you can extract, filter, group, and perform simple math on data.
 

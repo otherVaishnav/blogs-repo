@@ -1,10 +1,13 @@
 ---
-order: 6
+title: "Set Operators"
+description: "Explore the Set Operators section."
+pubDate: "2025-06-01"
 ---
 
-# Set Operators
+<!-- # Set Operators -->
+Set operators are used to combine the results of two or more SELECT statements into a single result set. The result set can include all rows from both queries, only the unique rows, or only the rows that are common to both queries.
 
-TYPES : 
+## TYPES : 
 
 1. UNION ALL
 2. UNION

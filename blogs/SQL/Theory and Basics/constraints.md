@@ -1,4 +1,10 @@
-# constraints
+---
+title: "Constraints"
+description: "Explore the constraints section."
+pubDate: "2025-06-01"
+---
+
+<!-- # constraints -->
 
 → rules assigned to columns. 
 

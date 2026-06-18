@@ -1,8 +1,10 @@
 ---
-order: 4
+title: "Logical Operators"
+description: "Explore the Logical Operators section."
+pubDate: "2025-06-01"
 ---
 
-# Logical Operators
+<!-- # Logical Operators -->
 
 ---
 

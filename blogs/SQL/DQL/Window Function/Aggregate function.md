@@ -1,4 +1,10 @@
-# Aggregate function
+---
+title: "Aggregate Functions"
+description: "Explore the Aggregate Functions  section."
+pubDate: "2025-06-01"
+---
+
+<!-- # Aggregate function -->
 
 1. WAQTD each employee’s name, salary, along with the **total salary of all employees.**
     

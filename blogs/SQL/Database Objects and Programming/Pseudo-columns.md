@@ -1,8 +1,10 @@
 ---
-order: 4
+title: "Pseudo-columns"
+description: "Explore the Pseudo-columns section."
+pubDate: "2025-06-01"
 ---
 
-# Pseudo-columns
+<!-- # Pseudo-columns -->
 
 **Pseudocolumns** are the false columns that are present in each and every table  
 

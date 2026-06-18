@@ -1,6 +1,11 @@
-# DQL (Data Query Language)
-
 ---
+title: "DQL"
+description: "Explore the DQL section."
+pubDate: "2025-06-01"
+---
+
+<!-- # DQL (Data Query Language) -->
+
 DQL is a subset of SQL used to query and fetch data from databases. It allows users to retrieve information from one or more tables without modifying the underlying data structure or the data itself.
 
 The primary and only command in DQL is **`SELECT`**.

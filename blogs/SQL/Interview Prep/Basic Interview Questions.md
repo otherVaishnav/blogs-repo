@@ -1,8 +1,11 @@
 ---
-order: 4
+title: "Basic Interview Questions"
+description: "Explore the Basic Interview Questions section."
+pubDate: "2025-06-01"
 ---
 
-# Basic Interview Questions
+
+<!-- # Basic Interview Questions -->
 
 ---
 

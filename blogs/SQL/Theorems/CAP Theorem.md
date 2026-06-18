@@ -1,4 +1,10 @@
-# CAP Theorem
+---
+title: "CAP Theorem"
+description: "Explore the CAP theorem."
+pubDate: "2025-06-02"
+---
+
+<!-- # CAP Theorem -->
 
 CAP Theorem (Brewer’s Theorem) states that a distributed data system cannot simultaneously guarantee all three of the following properties:
 

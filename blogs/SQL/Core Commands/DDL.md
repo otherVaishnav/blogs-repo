@@ -1,8 +1,10 @@
-# DDL
-
+---
+title: "DDL"
+description: "Explore the DDL section."
+pubDate: "2025-06-01"
 ---
 
-Data definition language
+<!-- # Data Definition Language -->
 
 → It is used to define the structure the of a database object.
 

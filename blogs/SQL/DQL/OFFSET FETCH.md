@@ -1,8 +1,10 @@
 ---
-order: 18
+title: "OFFSET FETCH"
+description: "Explore the OFFSET FETCH section."
+pubDate: "2025-06-01"
 ---
 
-# OFFSET FETCH
+<!-- # OFFSET FETCH -->
 
 Different ways of limiting the number of records in RESULT TABLE in different databases. 
 
